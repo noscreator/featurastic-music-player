@@ -13,7 +13,6 @@ A modern and feature-rich music player with a sleek design.
 
 ## Screenshots
 ![IMG_20240307_195732](https://github.com/noscreator/featurastic-music-player/assets/152608930/629a5759-58cd-457b-b3d8-431d97be5908)
-![IMG_20240307_195749](https://github.com/noscreator/featurastic-music-player/assets/152608930/07e22b38-6ab7-44aa-a7d3-4d62d29eee53)
 
 ## Usage
 
