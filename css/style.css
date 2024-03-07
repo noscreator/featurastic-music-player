@@ -37,9 +37,9 @@ svg {
 
 /* Container styling for the content */
 .container {
-  background: rgba(110, 255, 250, 0.75);
+  background: rgba(110, 255, 250, 1);
   height: auto;
-  width: 80%;
+  width: 40rem;
   border-radius: 0.5rem;
   padding: 0.2rem;
   clip-path: polygon(25px 0%, 100% 0, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0 100%, 0% 25px);
@@ -47,7 +47,6 @@ svg {
 
 /* Container styling for the music content */
 .music-container {
-  background: rgba(112, 255, 241, 0.75);
   height: auto;
   width: 100%;
   border-radius: 0.5rem;
@@ -68,7 +67,7 @@ svg {
   border-radius: 0.5rem;
   padding: .25rem;
   background: #24CFC5;
-  background-image: linear-gradient(220.55deg, #24CFC5 0%, #000000 100%);
+  background-image: linear-gradient(220.55deg, #FFFFFF 0%, #000000 100%);
   width: 25rem;
   height: 25em;
   clip-path: polygon(25px 0%, 100% 0, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0 100%, 0% 25px);
@@ -76,7 +75,6 @@ svg {
 
 /* Styling for the cover image */
 #cover {
-  border-radius: inherit;
   display: block;
   height: 100%;
   border-radius: 0.5rem;
@@ -99,11 +97,10 @@ svg {
   width: 100%;
   position: relative;
   bottom: 2rem;
-  background: rgba(0, 255, 241, 0.75);
+  background: rgba(110, 255, 250, 0.75);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 2px;
-  border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 /* Styling for the title */
